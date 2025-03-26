@@ -1,7 +1,7 @@
 # Devang Makhdiya — Data Analyst | Business Intelligence Specialist
 
 Data-driven decisions start with precision.  
-Devang Makhdiya brings together advanced analytical techniques, business intelligence tools, and CRM optimization to convert complex data into actionable insights.
+
 
 ---
 ![Devang Makhdiya — Data Analyst](Banner_Dev.png)
