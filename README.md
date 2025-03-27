@@ -1,85 +1,70 @@
-# Devang Makhdiya — Data Analyst | Business Intelligence Specialist
+# Devang Makhdiya | Data Analyst & BI Specialist  
 
-Data-driven decisions start with precision.  
+**Data-driven decisions start with precision.**  
 
+![Banner](Banner_Dev.png)  
 
----
-![Devang Makhdiya — Data Analyst](Banner_Dev.png)
-
-## 📌 Profile
-
-Devang is a Data Analyst with a strong foundation in Information Technology and Management, holding a Master’s degree from the University of Texas at Dallas and a B.Tech in Computer Science. With experience across the U.S., UAE, and India, he has delivered measurable impact in data integration, reporting automation, and CRM analytics.
+## 👋 Profile  
+I'm a Data Analyst with expertise in transforming raw data into actionable insights. With a Master's in IT Management from UT Dallas and a B.Tech in Computer Science, I've delivered impact across industries in the U.S., UAE, and India through advanced analytics, automation, and BI solutions.
 
 ---
 
-## 🎓 Education
-
-<details>
-<summary><strong>🎓 Master of Science (M.Sc.) – Information Technology and Management</strong></summary>
-<ul>
-  <li><strong>Institution:</strong> University of Texas at Dallas, TX, USA</li>
-</ul>
-</details>
-
-<details>
-<summary><strong>🎓 Bachelor of Technology (B.Tech) – Computer Science</strong></summary>
-<ul>
-  <li><strong>Institution:</strong> Birla Institute of Technology and Science (BITS), Dubai, UAE</li>
-</ul>
-</details>
+## 🛠 Core Skills  
+**▸ Data Analysis:** Python (Pandas, NumPy), SQL, R  
+**▸ Visualization:** Power BI, Tableau, Matplotlib/Seaborn  
+**▸ ETL & Databases:** Azure, AWS, MySQL, SSIS  
+**▸ Business Intelligence:** Salesforce CRM, Financial Analytics  
+**▸ Modeling:** Regression, Clustering, Forecasting  
 
 ---
 
-## 🔍 Core Competencies
+## 💻 Experience Highlights  
 
-- **Data Analysis & Visualization**: EDA, data wrangling, and interactive dashboards using Power BI, Tableau, and Python (Pandas, Seaborn).
-- **ETL & Database Management**: SQL optimization, stored procedures, automated pipelines, and cloud integration (Azure, AWS).
-- **Predictive Modeling**: Regression analysis, A/B testing, clustering, and forecasting using Python and statistical tools.
-- **CRM & BI Tools**: Salesforce CRM analytics, business performance tracking, and automated financial reporting.
+### **Auramedpro Inc.** | Dallas, TX  
+*Data Analyst – Salesforce & BI (2023-Present)*  
+- Boosted Salesforce data accuracy by 40% through validation rules  
+- Built Power BI dashboards improving decision speed by 30%  
+- Automated financial reporting using SQL stored procedures  
 
----
+### **Elfit Arabia** | Dubai, UAE  
+*Data Analyst & IT Developer (2020-2022)*  
+- Designed ETL pipelines increasing system efficiency by 40%  
+- Developed lead-gen dashboards improving conversions by 20%  
 
-## 💼 Professional Experience Highlights
-
-**AURAMEDPRO INC., Dallas, TX**  
-*Data Analyst – Salesforce CRM & BI*  
-- Enhanced Salesforce data accuracy by 40% through advanced validation and deduplication techniques.  
-- Developed Power BI/Tableau dashboards to improve decision-making efficiency by 30%.  
-- Led financial analytics with SQL, driving 20% better investment insights.
-
-**ELFIT ARABIA, Dubai, UAE**  
-*Data Analyst & IT Developer*  
-- Streamlined ETL workflows, improving system efficiency by 40%.  
-- Built interactive reporting tools that increased lead generation by 20%.  
-- Boosted customer retention through A/B testing and behavioral data analysis.
-
-**PHANI FOODS, Hyderabad, India**  
-*Director of Business Development*  
-- Applied predictive analytics to reduce inventory waste by 25%.  
-- Increased revenue by 50% through targeted customer profiling and market research.
+### **Phani Foods** | Hyderabad, India  
+*Director of Business Development (2018-2020)*  
+- Reduced inventory waste 25% via demand forecasting  
+- Grew revenue 50% through customer segmentation  
 
 ---
 
-## 🧪 Key Projects
+## 🚀 Key Projects  
+**Pet Clinic ETL System**  
+- Created MySQL-based pipeline handling 50K+ daily records  
+- Achieved 93% data accuracy with automated cleansing  
 
-- **Pet Clinic ETL Infrastructure**: Designed a MySQL-based ETL system, achieving 93% data accuracy and automating high-volume transformations.
-- **COVID-19 Data Scraping & Visualization**: Collected and analyzed CDC datasets; created demographic insights via Tableau dashboards.
+**COVID-19 Dashboard**  
+- Scraped/analyzed CDC data using Python  
+- Built Tableau dashboards tracking regional outbreaks  
 
 ---
 
-## 📜 Certifications
+## 🎓 Education  
+**MS IT Management** | UT Dallas (2023)  
+**B.Tech Computer Science** | BITS Dubai (2018)  
 
-- Microsoft Certified: Power BI Data Analyst Associate  
+---
+
+## 📜 Certifications  
+- Microsoft Power BI Data Analyst  
 - Tableau Certified Analyst  
-- Salesforce Certified Administrator
+- Salesforce Administrator  
 
 ---
 
-## 📫 Contact
+## 📬 Connect  
+📍 Dallas, TX  
+📧 devangm2025@gmail.com  
+🔗 [linkedin.com/in/devangmakhdiya](https://www.linkedin.com/in/devangmakhdiya)  
 
-**Location**: Dallas, TX  
-**Email**: devangm2025@gmail.com  
-**LinkedIn**: [linkedin.com/in/devangmakhdiya](http://www.linkedin.com/in/devangmakhdiya)
-
----
-*Translating data into direction. Elevating analytics into action.*
+*"Translating data into direction. Elevating analytics into action."*  
